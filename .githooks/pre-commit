@@ -1,9 +1,0 @@
-#!/usr/bin/env bash
-set -euo pipefail
-
-# Run Biome lint and format check
-bun run lint
-
-# Regenerate docs/README.md and stage it if changed
-bun run toc
-git add docs/README.md
